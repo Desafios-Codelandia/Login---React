@@ -31,9 +31,9 @@ export default function App() {
             <div className="space-y-5 flex flex-col justify-center text-white">
               <button className="bg-entrar p-3 rounded-lg" type="submit">Entrar</button>
               <div className="flex justify-center items-center gap-3">
-                <span className="w-20 h-px bg-black"></span>
-                <p className="text-black">Ou faça login com</p>
-                <span className="w-20 h-px bg-black"></span>
+                <span className="w-16 h-px bg-black"></span>
+                <p className="text-black uppercase">Ou faça login com</p>
+                <span className="w-16 h-px bg-black"></span>
               </div>
               <button className="flex gap-2 items-center justify-center bg-googlebuttom p-3 rounded-lg" type="submit">
                 <img src="../iconfinder_Google_1298745 1.png" alt="" />
